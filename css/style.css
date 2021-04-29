@@ -1,5 +1,5 @@
 body {  /* Cambiar color de fondo */
-    background: #8E0E00; 
+    background: black; 
     background: -webkit-linear-gradient(to right, black, white);  
     background: linear-gradient(to right, black, white); 
   }
