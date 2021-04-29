@@ -1,7 +1,7 @@
 body {  /* Cambiar color de fondo */
     background: #8E0E00; 
-    background: -webkit-linear-gradient(to right, #1F1C18, #ff1900);  
-    background: linear-gradient(to right, #1F1C18, #fc1900); 
+    background: -webkit-linear-gradient(to right, black, white);  
+    background: linear-gradient(to right, black, white); 
   }
   .navbar-brand {   /* cambiar la fuente de la letra UNA */
     font-family: 'Spicy Rice', cursive;
