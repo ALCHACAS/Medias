@@ -17,4 +17,7 @@ body {  /* Cambiar color de fondo */
 *{
     font-family: 'Spicy Rice', cursive;
     font-size: 1rem !important;
+    background: #000000; 
+    background: -webkit-linear-gradient(to right, #000000, #FFFFFF);  
+    background: linear-gradient(to right, #000000, #FFFFFF); 
   }
