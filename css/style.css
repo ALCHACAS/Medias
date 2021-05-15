@@ -1,5 +1,7 @@
 body {  /* Cambiar color de fondo */
     background: #000000; 
+    background: -webkit-linear-gradient(to right, #1F1C18, #ff1900);  
+    background: linear-gradient(to right, #1F1C18, #fc1900); 
     
   }
   .navbar-brand {   /* cambiar la fuente de la letra UNA */
