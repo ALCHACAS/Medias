@@ -12,7 +12,8 @@ body {  /* Cambiar color de fondo */
     font-family: 'Spicy Rice'; /* Cambiar fuente */
   }
   header img { /* definir ancho de la imagen */
-    width: 20%;
+    width: 150;
+    heigth: 150;
   }
 *{
     font-family: 'Spicy Rice';
