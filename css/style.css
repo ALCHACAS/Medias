@@ -13,4 +13,6 @@ body {  /* Cambiar color de fondo */
   }
   header img { /* definir ancho de la imagen */
     width: 50%;
+      width="150";
+      height="150";
   }
